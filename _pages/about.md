@@ -14,6 +14,8 @@ Interests
 ======
 1. Machine Learning
 2. Robotics
+
+   
 Education
 ======
 BSc in Automation Control and Engineering
